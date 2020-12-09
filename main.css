@@ -1,0 +1,11 @@
+.number {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  background-color: yellow;
+  list-style: none;
+  border-radius: 50%;
+  font-size: 100px;
+  text-align: center;
+  line-height: 150px;
+}
